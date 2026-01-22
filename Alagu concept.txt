@@ -17,7 +17,7 @@ pre intro:
 	[One who open the door at inside]
 	[white splashes]
 		   [ Destiny ]
-							[title card5]	
+							[title card]	
 		
 opening scene:
 	Abirami close up shot...
