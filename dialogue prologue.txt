@@ -603,6 +603,7 @@ intro scene:
 	[he go inside to see Yazhini]
 	[He get a pen from his pocket]
 	[Isai get out again]
+		Isai : Pen Vangiten pa..
 	[Isai filled the Application form]
 	[He give back the form to office]
 	[Thet leaves at School]
@@ -661,6 +662,7 @@ intro scene:
 23rd scene:
 	[Aruvi Enter the class]
 		Aruvi : Ellarum chemistry lab varuveengalam, Teacher solla sonnanga..
+	[Students get ready to go chemistry lab]
 	[At chemistry lab]
 	[Isai notice Yazhini again]
 	[Yazhini and her boyfriend mixing some liquid components in a beaker]
@@ -675,7 +677,7 @@ intro scene:
 	[Aruvi Throw her hair from front to back]
 		Isai : Yaar antha Ponnu..
 		Friend : Ava per Aruvi...
-		Isai : Oh ARUVI yaa...[Athan adi balam ah viluguthu]
+		Isai : Oh ARUVI yaa...
 	[Bgm Theme music]
 
 24th scene:
@@ -685,10 +687,12 @@ intro scene:
 	[the frame is set at side of house]
 	[he went inside]
 	[he throws bag]
+		Isai's mom : Vanthoney enga da odura?
+		Isai : Chetta Kadaiku maa.....[shouts]
 	[and he get cycle again]
 	[he go to his favourite tea shop]
 		Isai : Chettaaa... Nazir vanthaana?
-		Chetta : illa da inimel than varuvan.. 
+		Chetta : illa da inimel than varuvan.. Okkaru..
 	[isai sat on a chair with sadness]
 		Chetta : Yen da enna aachu moonju sogama irukku
 		Isai : Athu onnum illa chetta... School sera pogum bothu oru ponna paathen..
@@ -696,12 +700,13 @@ intro scene:
 		         apa than theriyuthu antha ponnuku  yerkanave kaadhalan irukurathu nu..
 		Chetta: Oh athan moonja thooki vechutu okkanthurukiya..
 	[Nasir come to teas shop]
+	[Isai hide his emotion]
 		Nasir : Enna chetta inga oruthan soga kadal la moozhgi irukura maari irukkan... enna aacham
 		Chetta : Athu onnum illa Nazir uh,, Oru ponna paathu manasa parakka vittan ,antha ponnu ivana paraka vitruchu
 		Nasir : Adi vaangunana?
 		Chetta : Illa illa yerkanave kadhal vizhuntha ponnu ta poi ivan vizunthurukan, avalum ava kadhalanum viluntha 
 		              ivana orediya pothachutaanga..
-		Nasir : School sentha motha naale mookula tinger podra nelama vanthuruvhu,inimel ennalam aag apoguthoo..
+		Nasir : School sentha motha naale mookula tinger podra nelama vanthuruvhu,inimel ennanalam aaga poguthoo..
 		Isai : podhum ,Pothum, ennaiya vechu oatnathu ...
 
 	[In slow motion]
@@ -709,8 +714,8 @@ intro scene:
 	[Isai also start laughs]
 
 25th scene:
-	[Next morning]
-	[Isai go to his normal class]
+	[Later few days]
+	[Isai go to his usual class]
 		Friend : Dei Isai enga oorula thiruvizha nadaka poguthu nee kandipa varanum..
 		Isai : Naa epdi da anga varathu....
 		Friend : Chumma vaa da enga ooru thiruvila ku nee vanthathu illela vanthu paaru epdi kalakatta  poguthu nu...
