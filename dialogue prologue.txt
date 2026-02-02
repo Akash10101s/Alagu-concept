@@ -1,4 +1,4 @@
-dialogue prologue::
+	dialogue prologue::
 
 pre intro:
 	[rain pours]
@@ -727,8 +727,77 @@ intro scene:
 	[Isai and Nazir enter to his hriends town festivel]
 	[Dances and culture events events were held]	
 	[Nazir See his friend on there]
-		Nazir : Iru isai ennoda friend inga irukan wait pannu rendu nimusathaula  vanthuren...
+		Nazir : Iru da dei... ennoda friend inga vanthurukaan... wait pannu rendu nimusathaula  vanthuren...
+	[Isai Just waited]
+	[Isai noted a women as far]
+	[she was blur]
+	[She comes near]
+	[She wears beautiful cultural dress]
+	[She wears a Marvellous Earpiece]
+	[She just Holding Lightened oil lamp]
+	[She only focus on flare ]
+	[Isai got surpriced]
+		Isai {murmuring} :A...R...U...V...I
+	[Isai following Aruvi]
+	[Nazir notice Isai]
+	[Nazir try to call Isai]
+		Nasir : Dei Isai .. Dei Isai
+		
+	[Nazir run to isai]
+	[Nazir got breath heavily]
+		Nazir : Enga da pora..?
+		Isai :  Aruvi da 
+		Nazir : Haan Aruvaa va??
+		Isai : DEI... Aruvi da..
+		Nazir : Yaarudaa..?
+		Isai : Naa motha mora oru ponna paathenla.. antha ponna avasara avasarama paaka pogumbothu oru ponnu mela poi idichen da,Antha ponnu than
+		           Ippa enna thaandi ponaa,.. Aana enga ponu nu therla da
+		Nazir : Athuku ethuku da ipa vaanathukum boomikum parakura
+		Isai : Therla da...oru vela....
+		Nazir : Right da oor vittu oor vanthu nammala marathula thonga vittu adi vaanga veika pora..Athana..
+		Isai : Ava enna thaandi ponaa da,... Ennaiye ariyama ava pora thisai ellam ponum nu thonuthu da..
+		Nazir : Vidu avalukum aal irukum
+		Isai : DEI....
+		Nazir : pinna enna da kaalam poora pinnadiye pona,eppa da kadhala solluva..
+	[Suddenly Isai notice Aruvi]
 
+27 th scene:
+		Isai : Nazir uh.. Ava anga poraa da..vaada...
+	[Isai got run to Aruvi]
+		Nazir : Ayyo ivan nammala marathula thonga vidaama vida maatan polaye...Iruda varen..
+	[Isai follow aruvi in slow motion]
+	[Bgm starts]
+	[Aruvi places a lamp in front of an idol doll]
+	[Aruvi prays]
+	[Small light rays lay on isai]
+	[She finish pray and she go to some where]
+	[He follows her with mind full of obsession]
+	[Suddenly Nazir interrupt Isai]
+	[Bgm ended suddenly]
+		Nazir : Kanna katti kaathula suthunathu pothum..	
+	[Nazir pulls Isai]
+	[Make a shot up moving to moon]
+	[Transition to moon]
+
+28th scene :
+	
+	[Make a shot down from moon]
+	[Isai lay down on terrace]
+	[Isai try to sleep]
+	[He remind memories of her]
+	[HE DREAMS]
+	[He remind memories of her
+	           He called her
+		He do propose her]
+		Isai : I love you Aruvi!..	
+	[Suddenly dream collapsed] 
+		Isai :Athana paathen namakku enga thariyam vara poguthu...
+	[shot at clock]
+	[Shot at he get ready]
+
+29th scene :
+	[Shot at he parked his cycle]
+	
 
 	
 	
