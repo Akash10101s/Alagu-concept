@@ -1,5 +1,4 @@
-
-	Alagu concept::
+Alagu concept::
 
 pre intro:
 	[rain pours]
